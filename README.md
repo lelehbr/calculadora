@@ -44,5 +44,6 @@ acesse o [spotfy](https://spotfy.com/)
 #### tabelas 
 | quantidade | maria juana    | pó      |
 | ---------- | -------------- | --------|
-|15g         | R$50,00        |R$70,00  |
-|50g         |   |
+|15g         | R$30,00        |R$70,00  |
+|30g         | R$60,00        |R$140,00 |
+|45g         |R$90,00         |R$210,00 |
