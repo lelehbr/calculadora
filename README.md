@@ -37,7 +37,7 @@ acesse o [spotfy](https://spotfy.com/)
 
 #### caixas de check 
 
-- [ ] fazer a tela de login 
+- [ ]fazer a tela de login 
 - [ ]criar a tela de calculo 
 - [ ]criar a tela de historico 
 
